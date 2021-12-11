@@ -4,8 +4,8 @@ title: Boozy Bourbon Balls
 date: 2021-12-11 00:00:00 -0800
 categories: tapley
 ---
-![The mix](/img/boozy-bourbon-balls/mix.jpg)
-![The display](/img/boozy-bourbon-balls/done.jpg)
+![The mix](/recipes/img/boozy-bourbon-balls/mix.jpg)
+![The display](/recipes/img/boozy-bourbon-balls/done.jpg)
 
 ## Ingredients
 
