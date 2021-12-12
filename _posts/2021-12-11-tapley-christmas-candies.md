@@ -2,7 +2,7 @@
 layout: post
 title: Tapley Christmas Candies
 date: 2021-12-11 00:00:00 -0800
-categories: tapley gluten-fre
+categories: tapley gluten-free
 ---
 ## Ingredients
 

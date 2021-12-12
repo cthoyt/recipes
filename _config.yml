@@ -1,6 +1,8 @@
 title: Hoyt Family Recipes
 description: >
-  Food from our Armenian, German, British, and Scottish heritage (and America, too)
+  Recipes from our Armenian, German, British, Scottish, and American heritage
+
+show_excerpts: true
 
 theme: minima
 plugins:
