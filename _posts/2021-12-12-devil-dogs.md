@@ -3,9 +3,19 @@ layout: post
 title: Devil Dogs
 date: 2021-12-12 00:00:00 -0800
 categories: dessert
+excerpt_separator: <!--more-->
 ---
-![The mix]({{ site.baseurl }}/img/devil-dogs/mix.jpeg)
-![The display]({{ site.baseurl }}/img/devil-dogs/done.jpeg)
+<div style="overflow: hidden; display: flex; justify-content:space-around;">
+    <img alt="The mix"
+        src="{{ site.baseurl }}/img/devil-dogs/mix.jpeg"
+        style="max-height: 300px; display: inline-block;"
+    />
+    <img alt="The display"
+        src="{{ site.baseurl }}/img/devil-dogs/done.jpeg"
+        style="max-height: 300px; display: inline-block;"
+    />
+</div>
+<!--more-->
 
 ## Ingredients
 

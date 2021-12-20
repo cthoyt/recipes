@@ -3,10 +3,25 @@ layout: post
 title: Tapley Christmas Candies
 date: 2021-12-11 00:00:00 -0800
 categories: tapley gluten-free
+excerpt_separator: <!--more-->
 ---
-![Melting the chocolate]({{ site.baseurl }}/img/tapley-christmas-candies/chocolate.jpeg)
-![Preparation]({{ site.baseurl }}/img/tapley-christmas-candies/preparation.jpeg)
-![The display]({{ site.baseurl }}/img/tapley-christmas-candies/done.jpeg)
+A chocolate-covered cherry gooey candy.
+
+<div style="overflow: hidden; display: flex; justify-content:space-around;">
+    <img alt="Melting the chocolate"
+        src="{{ site.baseurl }}/img/tapley-christmas-candies/chocolate.jpeg"
+        style="max-height: 300px; display: inline-block;"
+    />
+    <img alt="Preparation"
+        src="{{ site.baseurl }}/img/tapley-christmas-candies/preparation.jpeg"
+        style="max-height: 300px; display: inline-block;"
+    />
+    <img alt="The display"
+        src="{{ site.baseurl }}/img/tapley-christmas-candies/done.jpeg"
+        style="max-height: 300px; display: inline-block;"
+    />
+</div>
+<!--more-->
 
 ## Ingredients
 

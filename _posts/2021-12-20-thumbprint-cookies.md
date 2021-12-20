@@ -3,8 +3,13 @@ layout: post
 title: Thumbprint Cookies
 date: 2021-12-20 00:00:00 -0800
 categories: dessert
+excerpt_separator: <!--more-->
 ---
-![The display]({{ site.baseurl }}/img/thumbprint-cookies-done.jpeg)
+<img alt="The display" 
+  src="{{ site.baseurl }}/img/thumbprint-cookies-done.jpeg" 
+  style="max-height: 300px;"
+/>
+<!--more-->
 
 ## Ingredients
 
