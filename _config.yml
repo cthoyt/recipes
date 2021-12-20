@@ -8,6 +8,11 @@ show_excerpts: true
 #  https://byparker.com/blog/2014/clearing-up-confusion-around-baseurl/
 baseurl: /recipes
 
+minima:
+  social_links:
+    twitter: cthoyt
+    github: cthoyt
+
 theme: minima
 plugins:
   - jekyll-feed
