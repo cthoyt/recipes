@@ -5,10 +5,16 @@ date: 2021-12-20 00:00:00 -0800
 categories: dessert
 excerpt_separator: <!--more-->
 ---
-<img alt="The display" 
-  src="{{ site.baseurl }}/img/thumbprint-cookies-done.jpeg" 
-  style="max-height: 300px;"
-/>
+<div style="overflow: hidden; display: flex; justify-content:space-around;">
+    <img alt="In the pan"
+        src="{{ site.baseurl }}/img/thumbprint-cookies/pan.jpeg"
+        style="max-height: 300px;"
+    />
+    <img alt="The display" 
+        src="{{ site.baseurl }}/img/thumbprint-cookies/done.jpeg" 
+        style="max-height: 300px;"
+    />
+</div>
 <!--more-->
 
 ## Ingredients
