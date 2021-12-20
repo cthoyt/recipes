@@ -4,6 +4,10 @@ description: >
 
 show_excerpts: true
 
+# See explanation of baseurl at:
+#  https://byparker.com/blog/2014/clearing-up-confusion-around-baseurl/
+baseurl: /recipes
+
 theme: minima
 plugins:
   - jekyll-feed

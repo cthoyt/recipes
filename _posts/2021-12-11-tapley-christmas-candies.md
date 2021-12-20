@@ -4,9 +4,9 @@ title: Tapley Christmas Candies
 date: 2021-12-11 00:00:00 -0800
 categories: tapley gluten-free
 ---
-![Melting the chocolate](/recipes/img/tapley-christmas-candies/chocolate.jpeg)
-![Preparation](/recipes/img/tapley-christmas-candies/preparation.jpeg)
-![The display](/recipes/img/tapley-christmas-candies/done.jpeg)
+![Melting the chocolate]({{ site.baseurl }}/img/tapley-christmas-candies/chocolate.jpeg)
+![Preparation]({{ site.baseurl }}/img/tapley-christmas-candies/preparation.jpeg)
+![The display]({{ site.baseurl }}/img/tapley-christmas-candies/done.jpeg)
 
 ## Ingredients
 

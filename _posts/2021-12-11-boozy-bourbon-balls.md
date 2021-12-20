@@ -7,8 +7,8 @@ categories: tapley
 Boozy bourbon balls are a chocolaty, alcoholic wafer ball that's delicious
 when it's stale (Mom says "gets better with age").
 
-![The mix](/recipes/img/boozy-bourbon-balls/mix.jpg)
-![The display](/recipes/img/boozy-bourbon-balls/done.jpg)
+![The mix]({{ site.baseurl }}/img/boozy-bourbon-balls/mix.jpg)
+![The display]({{ site.baseurl }}/img/boozy-bourbon-balls/done.jpg)
 
 ## Ingredients
 

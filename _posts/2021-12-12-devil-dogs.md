@@ -4,8 +4,8 @@ title: Devil Dogs
 date: 2021-12-12 00:00:00 -0800
 categories: dessert
 ---
-![The mix](/recipes/img/devil-dogs/mix.jpeg)
-![The display](/recipes/img/devil-dogs/done.jpeg)
+![The mix]({{ site.baseurl }}/img/devil-dogs/mix.jpeg)
+![The display]({{ site.baseurl }}/img/devil-dogs/done.jpeg)
 
 ## Ingredients
 

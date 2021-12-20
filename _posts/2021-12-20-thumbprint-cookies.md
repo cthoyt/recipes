@@ -4,7 +4,7 @@ title: Thumbprint Cookies
 date: 2021-12-20 00:00:00 -0800
 categories: dessert
 ---
-![The display](/recipes/img/thumbprint-cookies-done.jpeg)
+![The display]({{ site.baseurl }}/img/thumbprint-cookies-done.jpeg)
 
 ## Ingredients
 
