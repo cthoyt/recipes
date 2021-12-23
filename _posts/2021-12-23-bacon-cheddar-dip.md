@@ -10,6 +10,10 @@ excerpt_separator: <!--more-->
         src="{{ site.baseurl }}/img/bacon-cheddar-dip/unmixed.jpg"
         style="max-height: 300px;"
     />
+    <img alt="Before Mixing"
+        src="{{ site.baseurl }}/img/bacon-cheddar-dip/baking.jpg"
+        style="max-height: 300px;"
+    />
 </div>
 <!--more-->
 
