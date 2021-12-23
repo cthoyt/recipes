@@ -5,6 +5,14 @@ date: 2021-12-23 00:00:00 -0800
 categories: dip
 excerpt_separator: <!--more-->
 ---
+<div style="overflow: hidden; display: flex; justify-content:space-around;">
+    <img alt="Before Mixing"
+        src="{{ site.baseurl }}/img/bacon-cheddar-dip/unmixed.jpg"
+        style="max-height: 300px;"
+    />
+</div>
+<!--more-->
+
 ## Ingredients
 
 - 1 lb bacon
