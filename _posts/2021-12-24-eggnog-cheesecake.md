@@ -6,12 +6,12 @@ categories: dessert pie
 excerpt_separator: <!--more-->
 ---
 <div style="overflow: hidden; display: flex; justify-content:space-around;">
-    <img alt="Before Mixing"
-        src="{{ site.baseurl }}/img/eggnog-cheesecake/done.jpeg"
+    <img alt="The eggnog cheesecake mixing bowl"
+        src="{{ site.baseurl }}/img/eggnog-cheesecake/mixing.jpeg"
         style="max-height: 300px;"
     />
-    <img alt="Before Mixing"
-        src="{{ site.baseurl }}/img/eggnog-cheesecake/eaten.jpeg"
+    <img alt="The eggnog cheeseake in the oven"
+        src="{{ site.baseurl }}/img/eggnog-cheesecake/baking.jpeg"
         style="max-height: 300px;"
     />
 </div>
