@@ -5,6 +5,10 @@ date: 2021-12-23 00:00:00 -0800
 categories: dip
 excerpt_separator: <!--more-->
 ---
+The bacon cheddar dip is a recipe from our cousin's mother-in-law from the early
+00's that we just got around to making for the first time in 2021. It was great
+with Fritos and Tostitos.
+
 <div style="overflow: hidden; display: flex; justify-content:space-around;">
     <img alt="Before Mixing"
         src="{{ site.baseurl }}/img/bacon-cheddar-dip/unmixed.jpg"

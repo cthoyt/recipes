@@ -5,6 +5,8 @@ date: 2021-12-24 00:00:00 -0800
 categories: dessert pie
 excerpt_separator: <!--more-->
 ---
+The pumpkin pie is a favorite holiday dessert for Thanksgiving and Christmas.
+
 <div style="overflow: hidden; display: flex; justify-content:space-around;">
     <img alt="The finished product"
         src="{{ site.baseurl }}/img/pumpkin-pie/done.jpeg"
