@@ -6,11 +6,11 @@ categories: dessert pie
 excerpt_separator: <!--more-->
 ---
 <div style="overflow: hidden; display: flex; justify-content:space-around;">
-    <img alt="Before Mixing"
+    <img alt="The finished product"
         src="{{ site.baseurl }}/img/pumpkin-pie/done.jpeg"
         style="max-height: 300px;"
     />
-    <img alt="Before Mixing"
+    <img alt="After eating some"
         src="{{ site.baseurl }}/img/pumpkin-pie/eaten.jpeg"
         style="max-height: 300px;"
     />
